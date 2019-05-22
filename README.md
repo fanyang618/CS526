@@ -1,6 +1,7 @@
 # Escape Forest (Escape Shooting game with time limit)
 ## Obstacles
 1. Cage/Trap
+2. Land mines
 2. Stone rolling down a hill and find a way to dodge it
 3. Swamp to slow down player process
 4. Enemies/Monsters that chase you in certain areas
